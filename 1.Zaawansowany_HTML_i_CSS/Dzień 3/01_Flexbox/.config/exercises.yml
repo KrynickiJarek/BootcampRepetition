@@ -1,0 +1,7 @@
+exercises:
+    '1_Box z użytkownikiem': { max_points: 0, disabled: true }
+    '2_Holy Grail': { max_points: 0, disabled: true }
+    '3_Flexbox Froggy': { max_points: 0, disabled: true }
+    4_Nawigacja: { max_points: 0, disabled: true }
+    '5_Boxy projektowe': { max_points: 0, disabled: true }
+    '6_Ogniste koła': { max_points: 0, disabled: true }

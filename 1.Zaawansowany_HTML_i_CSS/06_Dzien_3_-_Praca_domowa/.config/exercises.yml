@@ -1,0 +1,4 @@
+exercises:
+    '1_Kolorowe kafelki': { max_points: 0, disabled: true }
+    '2_Flexbox Defense': { max_points: 0, disabled: true }
+    '3_Strona eventowa': { max_points: 0, disabled: true }
