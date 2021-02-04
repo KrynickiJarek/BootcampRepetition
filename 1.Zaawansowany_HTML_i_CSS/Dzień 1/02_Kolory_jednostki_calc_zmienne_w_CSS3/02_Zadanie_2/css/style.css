@@ -1,1 +1,11 @@
+.parent{
+    width: 500px;
+    height: 100px;
+    background: linear-gradient(90deg, hsl(0, 100%, 50%), hsl(235, 100%, 50%)) ;
+}
 
+.children{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(0,255,0);
+}

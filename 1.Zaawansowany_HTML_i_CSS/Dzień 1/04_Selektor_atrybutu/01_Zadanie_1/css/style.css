@@ -33,3 +33,17 @@
 }
 
 /* tutaj nasze style */
+
+a[target="_blank"]{
+  color: red;
+}
+
+img{
+  border: 5px solid red;
+}
+img[alt]{
+  border: none
+}
+div[class*="red"]{
+  background-color: red;
+}

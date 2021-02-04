@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: white;
+    box-sizing: border-box;
+}
+
+.banner {
+    height: 100vh;
+    background-image: url("../images/bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.banner__text {
+    font-size: 70px;
+    padding-top: calc(50vh - 40px);
+    margin-top: 0;
+    text-shadow: 0 0 30px rgba(36, 134, 115, 0.7);
+}
+
+.text {
+    background: linear-gradient(#27C6A2, #169678);
+    font-size: 1.2rem;
+    line-height: 2rem;
+    padding: 100px;
+}

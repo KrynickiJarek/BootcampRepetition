@@ -1,0 +1,12 @@
+:root {
+    --background-color: rgba(255, 0, 0, 0.5);
+    font-size: 20px;
+    --border-color: blue;
+}
+
+.box {
+    height: 16em;
+    width: 16em;
+    background-color: var(--background-color);
+    border: 8px solid var(--border-color);
+}

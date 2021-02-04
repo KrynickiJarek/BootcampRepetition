@@ -1,0 +1,21 @@
+body{
+    font-size: 10px;
+}
+.element1{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: red;
+}
+.element2{
+    width: 15em;
+    height: 15em;
+    margin: 1em;
+    background-color: blue;
+}
+.element3{
+    width: calc(150rem / 16);
+    height: calc(150rem / 16);
+    margin: calc(10rem / 16);
+    background-color: green;
+}

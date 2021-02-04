@@ -28,13 +28,13 @@ body {
 /*
  * Zmodyfikujce te selektory aby zadziałały
  */
-.more-info {
+.col-1 a.more-info {
   text-transform: capitalize;
   color: green;
   background: transparent;
 }
 
-.btn {
+a.btn {
   border: 1px solid #cacaca;
   padding: 5px;
   background: #03a6ff;
