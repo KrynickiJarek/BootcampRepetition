@@ -20,29 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc2e1cd8-31ce-4487-aa0d-16ac4e2bd8db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/1.Zaawansowany_HTML_i_CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/01_CSS/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/01_CSS/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/01_CSS/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/01_CSS/03_Zadanie_3/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/01_CSS/03_Zadanie_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/01_CSS/03_Zadanie_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/01_CSS/04_Zadanie_4/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/01_CSS/04_Zadanie_4/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/01_Zadanie_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/01_Zadanie_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/01_Zadanie_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/02_Zadanie_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/02_Zadanie_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/03_Zadanie_3/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/03_Zadanie_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/02_Kolory_jednostki_calc_zmienne_w_CSS3/03_Zadanie_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/01_Zadanie_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/03_Podstawowe_selektory/03_Zadanie_3/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/04_Selektor_atrybutu/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/04_Selektor_atrybutu/01_Zadanie_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/04_Selektor_atrybutu/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/04_Selektor_atrybutu/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/05_Tlo/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/05_Tlo/01_Zadanie_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/05_Tlo/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/05_Tlo/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/05_Tlo/02_Zadanie_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/05_Tlo/02_Zadanie_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 1/05_Tlo/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 1/05_Tlo/03_Zadanie_3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/fonts/dmseriftext-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/fonts/dmseriftext-regular-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/01_Zadanie_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/02_Zadanie_2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/02_Box_sizing/03_Zadanie_3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/03_Border_radius_i_box_shadow/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/03_Border_radius_i_box_shadow/01_Zadanie_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/01_Zadanie_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/02_Zadanie_2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/03_Zadanie_3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/05_Zadanie_5/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/04_Zaawansowane_selektory/05_Zadanie_5/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +54,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CZYSTY_KURS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dzień 2/01_Fonty/01_Zadanie_1/fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612430139660</updated>
-      <workItem from="1612430141277" duration="9959000" />
+      <workItem from="1612430141277" duration="15120000" />
     </task>
     <servers />
   </component>

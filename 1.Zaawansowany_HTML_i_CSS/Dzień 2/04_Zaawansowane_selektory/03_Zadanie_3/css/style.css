@@ -44,3 +44,22 @@ body {
 .btn-third {
   background: #3ac569;
 }
+
+
+.buttons-ver-2 .btn-primary:before{
+  content: "\f055";
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5em;
+}
+
+.buttons-ver-2 .btn-secondary:before{
+  content: "\f05e";
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5em;
+}
+
+.buttons-ver-2 .btn-third:before{
+  content: "\f144";
+  font-family: "Font Awesome 5 Free";
+  font-size: 1.5em;
+}

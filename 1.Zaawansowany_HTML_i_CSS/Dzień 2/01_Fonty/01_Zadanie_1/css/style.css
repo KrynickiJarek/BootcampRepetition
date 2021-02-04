@@ -3,6 +3,31 @@
  */
 
 
+@font-face {
+  font-family: 'latoregular';
+  src: url('../fonts/lato-regular-webfont.woff2') format('woff2'),
+  url('../fonts/lato-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'latoregular';
+  src: url('../fonts/lato-regular-webfont.woff2') format('woff2'),
+  url('../fonts/lato-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'dm_serif_textregular';
+  src: url('../fonts/dmseriftext-regular-webfont.woff2') format('woff2'),
+  url('../fonts/dmseriftext-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 :root {
   --h1: 3rem;
   --h2: 2.5rem;
@@ -13,10 +38,13 @@ body {
   max-width: var(--container-width);
   width: calc(100% - 30px);
   margin: 0 auto;
+  font-family: 'latoregular', sans-serif;
 }
 
 h1, h2 {
   color: orangered;
+  font-family: "Pacifico", sans-serif;
+  font-weight: 400;
 }
 
 h1 {
@@ -36,4 +64,5 @@ section, header, article {
   background: #eee;
   padding: 1rem 2rem;
   margin-top: 1rem;
+  font-family: 'dm_serif_textregular', sans-serif;
 }

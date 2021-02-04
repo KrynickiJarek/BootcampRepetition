@@ -44,3 +44,111 @@ Sprobuj odwzorować grafikę nie zmieniajac HTML
 gold - kolor żółty
 black - kolor czarny
 */
+.cnt div:first-child strong {
+  background-color: white;
+}
+.cnt div:first-child span:nth-child(7n+2) {
+  background-color: white;
+}
+.cnt div:nth-child(2) strong {
+  background-color: white;
+}
+.cnt div:nth-child(3) span:nth-child(2) {
+  background-color: black;
+}
+.cnt div:nth-child(3) span:nth-child(3) {
+  background-color: black;
+}
+.cnt div:nth-child(3) span:nth-child(4) {
+  background-color: black;
+}
+.cnt div:nth-child(3) span:nth-child(7) {
+  background-color: black;
+}
+.cnt div:nth-child(3) span:nth-child(8) {
+  background-color: black;
+}
+.cnt div:nth-child(3) span:nth-child(9) {
+  background-color: black;
+}
+.cnt div:nth-child(4) span:nth-child(2) {
+  background-color: black;
+}
+.cnt div:nth-child(4) span:nth-child(4) {
+  background-color: black;
+}
+.cnt div:nth-child(4) span:nth-child(7) {
+  background-color: black;
+}
+.cnt div:nth-child(4) span:nth-child(9) {
+  background-color: black;
+}
+.cnt div:nth-child(6) span:nth-child(2) {
+  background-color: black;
+}
+.cnt div:nth-child(6) span:nth-child(9) {
+  background-color: black;
+}
+.cnt div:nth-child(6) span:nth-child(3) {
+  background-color: white;
+}
+.cnt div:nth-child(6) span:nth-child(8) {
+  background-color: white;
+}
+.cnt div:nth-child(6) strong:nth-child(4) {
+  background-color: white;
+}
+.cnt div:nth-child(6) strong:nth-child(5) {
+  background-color: white;
+}
+.cnt div:nth-child(6) strong:nth-child(6) {
+  background-color: white;
+}
+.cnt div:nth-child(6) strong:nth-child(7) {
+  background-color: white;
+}
+.cnt div:nth-child(7) span {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(3) {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(4) {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(5) {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(6) {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(7) {
+  background-color: black;
+}
+.cnt div:nth-child(8) span:nth-child(8) {
+  background-color: black;
+}
+.cnt div:nth-child(9) strong {
+  background-color: white;
+}
+.cnt div:nth-child(9) span:nth-child(4) {
+  background-color: black;
+}
+.cnt div:nth-child(9) span:nth-child(5) {
+  background-color: black;
+}
+.cnt div:nth-child(9) span:nth-child(6) {
+  background-color: black;
+}
+.cnt div:nth-child(9) span:nth-child(7) {
+  background-color: black;
+}
+.cnt div:nth-child(10) strong {
+  background-color: white;
+}
+.cnt div:nth-child(10) span:nth-child(2) {
+  background-color: white;
+}
+.cnt div:nth-child(10) span:nth-child(9) {
+  background-color: white;
+}
