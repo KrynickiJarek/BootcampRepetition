@@ -1,0 +1,45 @@
+.container {
+    height: 800px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    height: 15%;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    color: white;
+    background-color: #A5A5A5;
+    padding: 10px 30px;
+    margin-left: 30px;
+}
+
+.content{
+    height: 70%;
+    display: flex;
+}
+.left_bar{
+    height: 100%;
+    width: 25%;
+background-color: red;
+}
+.main{
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+}
+.right_bar{
+    height: 100%;
+    width: 25%;
+    background-color: forestgreen;
+}
+
+.footer {
+    height: 15%;
+    background-color: dodgerblue;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    height: 100px;
+    width: 100%;
+    background-color: #E53C3D;
+    color: #492F41;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 10px solid white;
+}
+
+.logo{
+    font-size: 36px;
+    margin-left: 30px;
+}
+.nav {
+    display: flex;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+.container {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border: 7px solid black;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+.image {
+    background-image: url("../images/avatar.png");
+    height: 250px;
+    width: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+height: 250px;
+}
+
+.header {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.text{
+    font-size: 28px;
+
+}
+
+.button{
+    align-self: flex-end;
+}

@@ -1,0 +1,24 @@
+.image {
+    background-image: url("../images/strawberries.jpg");
+    border: 5px solid tomato;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+.image:before {
+    content: "";
+    position: absolute;
+    background-color: tomato;
+    height: 50px;
+    width: 50px;
+}
+.image:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: tomato;
+    height: 50px;
+    width: 50px;
+}

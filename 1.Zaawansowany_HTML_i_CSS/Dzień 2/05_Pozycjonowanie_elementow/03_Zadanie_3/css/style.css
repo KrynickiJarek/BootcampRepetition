@@ -4,3 +4,20 @@
 }
 
 /* tutaj twoje style */
+
+.container::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.element{
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  border: 2px solid dodgerblue;
+  float: left;
+}
+
+.element:nth-child(4){
+  clear: left;
+}

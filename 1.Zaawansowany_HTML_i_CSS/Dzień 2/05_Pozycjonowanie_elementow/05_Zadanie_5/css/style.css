@@ -1,0 +1,22 @@
+.project {
+    position: relative;
+    color: white;
+    font-family: "Arial";
+}
+.project-over {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 500px;
+    background-color: rgba(0,128,255,0.5);
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+span {
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    z-index: 13;
+}
+
