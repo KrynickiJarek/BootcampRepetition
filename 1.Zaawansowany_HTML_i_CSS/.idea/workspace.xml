@@ -21,23 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc2e1cd8-31ce-4487-aa0d-16ac4e2bd8db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/01_Zadanie_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/01_Zadanie_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/01_Zadanie_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/02_Zadanie_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/02_Zadanie_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/03_Zadanie_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/03_Zadanie_3/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/03_Zadanie_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/03_Zadanie_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/04_Zadanie_4/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/04_Zadanie_4/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/05_Zadanie_5/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 2/05_Pozycjonowanie_elementow/05_Zadanie_5/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/01_Box_z_uzytkownikiem/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/01_Box_z_uzytkownikiem/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/01_Box_z_uzytkownikiem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/01_Box_z_uzytkownikiem/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/02_Holy_Grail/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/02_Holy_Grail/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/02_Holy_Grail/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/02_Holy_Grail/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/04_Nawigacja/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/04_Nawigacja/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/04_Nawigacja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/04_Nawigacja/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/05_Boxy_projektowe/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/05_Boxy_projektowe/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/05_Boxy_projektowe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/05_Boxy_projektowe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/06_Ogniste_kola/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/06_Ogniste_kola/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dzień 3/01_Flexbox/06_Ogniste_kola/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/01_Flexbox/06_Ogniste_kola/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 3/02_Stylowanie_formularzy/01_Zadanie_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/02_Stylowanie_formularzy/01_Zadanie_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dzień 3/02_Stylowanie_formularzy/01_Zadanie_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dzień 3/02_Stylowanie_formularzy/01_Zadanie_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +41,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../KURS/WRO_FER_S_24_Zaawansowany_HTML_i_CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Im_dalej_w_las/imdalejwlas" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612430139660</updated>
       <workItem from="1612430141277" duration="15236000" />
-      <workItem from="1612515228475" duration="10310000" />
+      <workItem from="1612515228475" duration="10563000" />
+      <workItem from="1612627980715" duration="2152000" />
     </task>
     <servers />
   </component>
@@ -93,14 +80,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1612515359716">
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1612628025776">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1612515359716" />
-    <state width="572" height="445" key="SwitcherDM" timestamp="1612559811805">
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1612628025776" />
+    <state x="505" y="187" key="SettingsEditor" timestamp="1612629744273">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="572" height="445" key="SwitcherDM/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1612559811805" />
+    <state x="505" y="187" key="SettingsEditor/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1612629744273" />
+    <state width="572" height="445" key="SwitcherDM" timestamp="1612629781532">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="572" height="445" key="SwitcherDM/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1612629781532" />
     <state x="808" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612528134116">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
