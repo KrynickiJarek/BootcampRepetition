@@ -1,0 +1,3 @@
+exercises:
+    '1_Mobile First': { max_points: 0, disabled: true }
+    '2_Flexbox Holy Grail': { max_points: 0, disabled: true }
