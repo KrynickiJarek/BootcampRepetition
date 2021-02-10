@@ -1,0 +1,16 @@
+@use "sass:map";
+
+$colors-map: (
+        bgColor: yellow,
+        fontColor: darkgray,
+        footerColor: green
+);
+
+body{
+  background-color: map.get($colors-map, bgColor);
+  color: map.get($colors-map, fontColor);
+}
+
+footer{
+  background-color: map.get($colors-map, footerColor);
+}

@@ -1,0 +1,17 @@
+@use "sass:map";
+@use "sass:list";
+
+
+$map: (
+        min-width: 200px,
+        max-width: 1000px
+);
+
+$lista: map.values($map);
+@debug $lista;
+
+.menu {
+  width: list.nth($lista, 2);
+  border: 1px solid red;
+  background-color: rgba(yellow, 0.5);
+}

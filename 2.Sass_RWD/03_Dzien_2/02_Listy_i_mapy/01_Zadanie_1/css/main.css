@@ -1,0 +1,18 @@
+body {
+  background-color: red;
+  width: 500px;
+}
+
+header {
+  background-color: green;
+  width: 400px;
+}
+
+.main-width {
+  background-color: blue;
+}
+
+section {
+  width: 300px;
+}
+/*# sourceMappingURL=main.css.map */
