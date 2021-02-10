@@ -1,0 +1,65 @@
+$color: lightblue;
+$color2: pink;
+$width: 1000px;
+
+
+.main-width {
+  width: $width;
+  ul{
+    list-style: none;
+    padding: 0;
+
+    li{
+      border: 1px solid #ddd;
+
+      &:first-child{
+        color: red;
+      }
+    }
+  }
+}
+.menu {
+  background-color: $color;
+
+  li {
+    display: inline-block;
+    padding-left: 10px;
+  }
+}
+
+header {
+  border: 5px solid $color2;
+  width: $width;
+}
+
+.list {
+  li{
+
+    &:first-child {
+      color: orange;
+    }
+    &:last-child{
+      color: green;
+    }
+    &:hover{
+      color: red;
+    }
+
+  }
+}
+
+footer {
+  ul {
+    display: flex;
+    justify-content: space-between;
+
+    li {
+      &:hover {
+        background-color: $color2;
+      }
+      &:last-child {
+        margin-left: auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rosybrown;
+}
+body h1 {
+  color: navy;
+  font-size: 100px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -4,38 +4,8 @@
   box-sizing: border-box;
 }
 
-
-@mixin clearfix() {
-  &::after {
-    content: "";
-    display: block;
-    clear: both;
-  }
-}
-
-.test-mixin {
-  @include clearfix();
-  background: yellow;
-}
-
-.left_box,
-.right_box{
-  width: 200px;
-  height: 200px;
-  background: rgba(red, 0.5);
-  border: 1px solid red;
-  float: left;
-}
-.right_box {
-  float: right;
-}
-
-
-
-
-
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   background: white;
 }
 
@@ -50,6 +20,9 @@ form input {
 
 header {
   margin: 20px 0;
+  font-size: 11px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .main-width {
@@ -70,29 +43,24 @@ header {
   float: left;
   list-style: none;
   width: 50%;
-
-  &:after {
-    content: "";
-    display: block;
-    clear: both;
-  }
+}
+.main-width ul:after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
-.main-width {
-  li {
-    float: left;
-    margin-right: 20px;
-    font-size: 100%;
-    line-height: 50px;
-  }
-
-  &:after {
-    content: "";
-    display: block;
-    clear: both;
-  }
+.main-width li {
+  float: left;
+  margin-right: 20px;
+  font-size: 100%;
+  line-height: 50px;
 }
-
+.main-width:after {
+  content: "";
+  display: block;
+  clear: both;
+}
 
 .dialog {
   width: 300px;
@@ -110,3 +78,4 @@ header {
 .dialog__text {
   font-size: 14px;
 }
+/*# sourceMappingURL=main.css.map */

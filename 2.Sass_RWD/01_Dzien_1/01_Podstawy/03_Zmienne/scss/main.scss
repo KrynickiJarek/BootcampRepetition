@@ -17,7 +17,7 @@ main {
 div {
   border-radius: 5px;
   width: 100px;
-  height: 100px;
+  height: $box-height;
   padding: 20px;
   margin: 40px;
   font-size: 35px;
@@ -31,7 +31,7 @@ div {
   0 0 14px dodgerblue;
 
   &:hover {
-    transform: scale(1.2) rotate(90deg)
+    transform: $transformation
   }
 }
 

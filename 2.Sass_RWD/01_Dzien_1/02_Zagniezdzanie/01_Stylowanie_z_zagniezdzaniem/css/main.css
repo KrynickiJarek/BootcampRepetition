@@ -1,0 +1,48 @@
+.main-width {
+  width: 1000px;
+}
+.main-width ul {
+  list-style: none;
+  padding: 0;
+}
+.main-width ul li {
+  border: 1px solid #ddd;
+}
+.main-width ul li:first-child {
+  color: red;
+}
+
+.menu {
+  background-color: lightblue;
+}
+.menu li {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+header {
+  border: 5px solid pink;
+  width: 1000px;
+}
+
+.list li:first-child {
+  color: orange;
+}
+.list li:last-child {
+  color: green;
+}
+.list li:hover {
+  color: red;
+}
+
+footer ul {
+  display: flex;
+  justify-content: space-between;
+}
+footer ul li:hover {
+  background-color: pink;
+}
+footer ul li:last-child {
+  margin-left: auto;
+}
+/*# sourceMappingURL=main.css.map */
