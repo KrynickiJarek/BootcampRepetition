@@ -1,0 +1,13 @@
+@for $i from 1 through 10 {
+  .block_#{$i}{
+    @if ($i%2 == 0){
+      height: 100px;
+      width: 100px;
+      background-color: orange;
+    } @else {
+      height: 100px;
+      width: 100px;
+      background-color: blue;
+    }
+  }
+}

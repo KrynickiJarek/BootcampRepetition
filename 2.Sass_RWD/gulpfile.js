@@ -1,4 +1,4 @@
-const entryPath = "03_Dzien_2/02_Listy_i_mapy/03_Zadanie_3";
+const entryPath = "03_Dzien_2/03_Logika/03_Zadanie_3";
 
 const gulp = require("gulp");
 const sass = require("gulp-sass");

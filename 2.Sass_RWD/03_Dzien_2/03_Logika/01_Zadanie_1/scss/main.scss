@@ -1,0 +1,23 @@
+@use "sass:color";
+
+//$height-one: 60px;
+//
+//h1{
+//  font-size: #{$height-one};
+//  line-height: #{$height-one};
+//}
+
+
+//@for $i from 1 through 6 {
+//  h#{$i} {
+//    font-size: 10px * (7 - $i);
+//  }
+//}
+
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-size: 10px * (7 - $i);
+    color: color.mix(tomato, cornflowerblue, $i*10%);
+  }
+
+}
