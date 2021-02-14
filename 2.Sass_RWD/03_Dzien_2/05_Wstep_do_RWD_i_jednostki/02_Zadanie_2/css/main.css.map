@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAAA;EACE,eAAA;ACCF;ADCE;EACE,gBAAA;ACCJ","file":"main.css","sourcesContent":[".panel{\n  font-size: 40px;\n  \n  p{\n    font-size: 0.5em;\n  }\n}",".panel {\n  font-size: 40px;\n}\n.panel p {\n  font-size: 0.5em;\n}"]}

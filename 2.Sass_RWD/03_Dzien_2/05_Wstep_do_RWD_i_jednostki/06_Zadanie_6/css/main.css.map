@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAAA;EACE,eAAA;ACCF;ADCE;EACE,eAAA;ACCJ","file":"main.css","sourcesContent":[".winnie_the_pooh{\n  font-size: 10px;\n  \n  blockquote{\n    font-size: 300%;\n  }\n}",".winnie_the_pooh {\n  font-size: 10px;\n}\n.winnie_the_pooh blockquote {\n  font-size: 300%;\n}"]}

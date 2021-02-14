@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAIA;EACE,cAHc;ACAhB","file":"main.css","sourcesContent":["@use \"sass:color\";\n\n$lightness-red: color.scale(red, $lightness: 40%);\n\nh1{\n  color: $lightness-red;\n}","h1 {\n  color: #ff6666;\n}"]}

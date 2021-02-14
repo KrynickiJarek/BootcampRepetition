@@ -1,0 +1,10 @@
+$number1: 10;
+$number2: 20;
+
+@function my_sum($i, $j) {
+  @return ($i + $j)*1px;
+}
+
+article{
+  padding: my_sum($number1, $number2);
+}

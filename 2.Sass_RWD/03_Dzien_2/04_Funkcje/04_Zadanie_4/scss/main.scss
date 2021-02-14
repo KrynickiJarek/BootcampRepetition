@@ -1,0 +1,9 @@
+@use "sass:color";
+
+$color_one: red;
+$color_two: white;
+
+
+.content{
+  background-color: color.mix($color_one, $color_two);
+}

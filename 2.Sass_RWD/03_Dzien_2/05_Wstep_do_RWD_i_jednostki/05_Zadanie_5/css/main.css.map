@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAAA;EACE,eAAA;ACCF;;ADGA;EACE,uBAAA;EACA,YAAA;ACAF","file":"main.css","sourcesContent":[":root {\n  font-size: 16px;\n}\n\n\n.footer-text {\n  border: 1px solid black;\n  width: 15rem;\n}",":root {\n  font-size: 16px;\n}\n\n.footer-text {\n  border: 1px solid black;\n  width: 15rem;\n}"]}

@@ -1,0 +1,13 @@
+.images {
+  width: 80%;
+  height: 100vh;
+  border: 3px dotted yellow;
+}
+.images .img_one {
+  background-image: url("../images/cat.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 30%;
+  height: 100%;
+}
+/*# sourceMappingURL=main.css.map */

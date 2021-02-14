@@ -1,0 +1,9 @@
+@use "sass:color";
+
+
+
+@for $i from 0 through 3 {
+  h#{$i+1}{
+      color: color.scale(black, $lightness: $i * 15%);
+  }
+}

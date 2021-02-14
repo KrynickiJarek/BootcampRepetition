@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAMA;EACE,yBAAA;ACLF","file":"main.css","sourcesContent":["@use \"sass:color\";\n\n$color_one: red;\n$color_two: white;\n\n\n.content{\n  background-color: color.mix($color_one, $color_two);\n}",".content {\n  background-color: #ff8080;\n}"]}

@@ -1,0 +1,31 @@
+.images {
+  width: 80%;
+  height: 100vh;
+  border: 3px dotted yellow;
+
+  .img_one {
+    background-image: url("../images/cat.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 100%;
+
+  }
+}
+//
+//.images {
+//  border: 1px solid #bada55;
+//  width: 80%;
+//
+//  .img_one{
+//    width: 30%;
+//    &::after {
+//      content: "";
+//      background-image: url("../images/cat.jpg");
+//      padding-top: 1110/1311 * 100%;
+//      display: block;
+//      background-size: cover;
+//    }
+//
+//  }
+//}

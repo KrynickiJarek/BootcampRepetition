@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAAA;EACE,iBAAA;EACA,kBAAA;ACCF","file":"main.css","sourcesContent":[".centered_text{\n  padding-top: 50vh;\n  padding-left: 50vw;\n}",".centered_text {\n  padding-top: 50vh;\n  padding-left: 50vw;\n}"]}

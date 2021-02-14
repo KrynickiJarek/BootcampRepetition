@@ -1,0 +1,17 @@
+html {
+  font-size: 10px;
+}
+
+.test {
+  font-size: 52px;
+}
+.test p {
+  font-size: 1em;
+}
+.test span {
+  font-size: 60%;
+}
+.test strong {
+  font-size: 1rem;
+}
+/*# sourceMappingURL=main.css.map */
