@@ -1,8 +1,9 @@
 body {
   background-color: orange;
 }
-@media (max-width: 800px){
-  body{
+
+@media (max-width: 800px) {
+  body {
     background-color: #6600DD;
   }
 }
@@ -11,3 +12,4 @@ body {
     background-color: green;
   }
 }
+/*# sourceMappingURL=main.css.map */

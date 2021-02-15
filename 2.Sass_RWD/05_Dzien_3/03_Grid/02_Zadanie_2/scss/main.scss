@@ -1,0 +1,28 @@
+$columns: 12;
+$column-base-width: 100% / $columns;
+
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+
+  @for $i from 1 through $columns {
+    .col-#{$i} {
+      min-height: 100px;
+      width: $column-base-width * $i;
+      background-color: #7490dc;
+      border: 1px solid black;
+    }
+  }
+
+  .menu{
+    height: 150px;
+    width: 100%;
+    background-color: #00FA9A;
+    border: 1px solid black;
+  }
+}

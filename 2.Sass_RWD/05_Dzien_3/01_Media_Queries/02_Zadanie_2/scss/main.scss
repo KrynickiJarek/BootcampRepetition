@@ -1,0 +1,12 @@
+@mixin placeholder {
+  &::placeholder {
+    @content
+  }
+}
+
+input, textarea {
+  @include placeholder(){
+    color: red;
+    font-style: italic;
+  }
+}

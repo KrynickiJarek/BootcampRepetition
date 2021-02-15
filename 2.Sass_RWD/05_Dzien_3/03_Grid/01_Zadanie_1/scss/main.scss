@@ -1,0 +1,22 @@
+$columns: 12;
+$column-base-width: 100% / $columns;
+
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@for $i from 1 through $columns {
+  .col-#{$i}{
+    min-height: 1px;
+    height: 100px;
+    width: $column-base-width * $i;
+    background-color: #7490dc;
+    border: 1px solid black;
+  }
+}

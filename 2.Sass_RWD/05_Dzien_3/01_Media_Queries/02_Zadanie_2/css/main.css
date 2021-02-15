@@ -1,0 +1,13 @@
+input::-moz-placeholder, textarea::-moz-placeholder {
+  color: red;
+  font-style: italic;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+  color: red;
+  font-style: italic;
+}
+input::placeholder, textarea::placeholder {
+  color: red;
+  font-style: italic;
+}
+/*# sourceMappingURL=main.css.map */
