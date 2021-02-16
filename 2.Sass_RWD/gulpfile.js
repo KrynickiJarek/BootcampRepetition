@@ -1,4 +1,4 @@
-const entryPath = "05_Dzien_3/04_Flexbox/01_Verti";
+const entryPath = "07_Dzien_4/02_Animacje/01_Niedzwiadek";
 const gulp = require("gulp");
 const sass = require("gulp-sass");
 sass.compiler = require('sass');

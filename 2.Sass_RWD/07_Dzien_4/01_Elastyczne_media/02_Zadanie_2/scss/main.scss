@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+.one-image {
+  box-sizing: border-box;
+  border: 10px solid red;
+  width: 100vw;
+  height: 500px;
+}
+
+.img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
