@@ -12,3 +12,8 @@ callOtherFunction(function (a, b) {
   console.log("Wynik", a + b);
 });
 
+callOtherFunction(function (x,y){
+  console.log("Pierwsza liczba:", x);
+  console.log("Druga liczba", y);
+  console.log(Math.max(x,y));
+})

@@ -7,9 +7,9 @@ function firstFunc() {
     const otherInt = 3;
   }
 
-  secondFunc();
+  secondFunc();  // someInt jest zadeklarowania poza funkcją secondFunc, więc secondFunc nie ma do niej dostępu
 
-  console.log(otherInt);
+  console.log(otherInt); // otherInt jest zadeklarowana w funkcji wewnątrz funkcji firstFunc więc ma dostęp
 }
 
 firstFunc();
